@@ -28,7 +28,6 @@ public class UserInputPractice {
 
             switch (choice) {
 
-                // 1. Sum and Average
                 case 1:
                     System.out.print("Enter first number: ");
                     int a = sc.nextInt();
